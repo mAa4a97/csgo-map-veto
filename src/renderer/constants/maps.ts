@@ -6,5 +6,5 @@ export const MAPS = [
   'de_train',
   'de_vertigo',
   'de_ancient',
-  'de_anubis'
+  'de_anubis',
 ];
